@@ -13,6 +13,8 @@ I'm a Ph.D. candidate in Spatial Planning at Technical University Dortmund, focu
 
 ## 📫 Contact
 - **Email**: [ruijin502@gmail.com](mailto:ruijin502@gmail.com) | [jin.rui@tu-dortmund.de](mailto:jin.rui@tu-dortmund.de)
+- **[Google Scholar](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID)**
+- **[ResearchGate](https://www.researchgate.net/profile/Jin_Rui)**
 
 ---
 
