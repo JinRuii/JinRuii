@@ -18,11 +18,11 @@ I’m a Postdoctoral Research Associate in Spatial Data Science at the Departmen
 
 ## 📄 Selected Publications
 
-- *Green disparities, happiness elusive: Decoding the spatial mismatch between green equity and the happiness from vulnerable perspectives*, **Cities**, 2025  
-- *Plausible or misleading? Evaluating Place Pulse 2.0 for subjective perception in Chinese landscapes*, **Habitat International**, 2025  
-- *Exploring positive sentiment in urban villages via social media and NLP*, **Sustainable Cities and Society**, 2023  
-- *Urban bike-sharing and natural environments in New York*, **Journal of Transport Geography**, 2024  
-- *Towards equal and valuable neighborhood evolution?*, **Journal of Environmental Management**, 2024  
+- *Green disparities, happiness elusive: Decoding the spatial mismatch between green equity and the happiness from vulnerable perspectives*. **Cities**, 2025, 163, 106063.  
+- *Plausible or misleading? Evaluating the adaption of the Place Pulse 2.0 dataset for predicting subjective perception in Chinese urban landscapes*. **Habitat International**, 2025, 157, 103333.  
+- *Exploring the association between the settlement environment and residents’ positive sentiments in urban villages and formal settlements in Shenzhen: A sentiment-based study using social media and NLP techniques*. **Sustainable Cities and Society**, 2023, 98, 104851.  
+- *Destigmatizing urban villages by examining their attractiveness: Quantification evidence from Shenzhen*. **Habitat International**, 2024, 150, 103120.  - *Beyond built environment: Unveiling the interplay of streetscape perceptions and cycling behavior using interpretable machine learning*. **Sustainable Cities and Society**, 2024, 109, 105525.
+
 
 → [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) | [ResearchGate](https://www.researchgate.net/profile/Jin-Rui-4)
 
